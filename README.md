@@ -28,11 +28,16 @@
                    
 ---                   
 
-*  _**Create container image that’s has Jenkins installed using Dockerfile Or You can use the Jenkins Server on RHEL 8/7**_
+*  _**Created container image that’s has Jenkins installed using Dockerfile or used the Jenkins Server on RHEL 8**_
 
 
 ![Screenshot (138)](https://user-images.githubusercontent.com/64469896/93022896-30acf000-f609-11ea-9a33-14ebf02b70bc.png)
 
 ![Screenshot (155)](https://user-images.githubusercontent.com/64469896/93023094-3ce57d00-f60a-11ea-890a-36117b99625a.png)
+
+
+*  _**JOB-1.** :- _Pull the GitHub repo automatically when some developers push repo to Github_
+
+
 
 
