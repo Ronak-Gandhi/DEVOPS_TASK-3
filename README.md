@@ -12,6 +12,6 @@
 
 5. **Job-2** : 
 
-              *  _**By looking at the code or program file, Jenkins should automatically start the respective language interpreter installed image container to deploy code on top                      of Kubernetes ( eg. If code is of PHP, then Jenkins should start the container that has PHP already installed )**_
+  *  _**By looking at the code or program file, Jenkins should automatically start the respective language interpreter installed image container to deploy code on top                      of Kubernetes ( eg. If code is of PHP, then Jenkins should start the container that has PHP already installed )**_
 
-              * _**Expose your pod so that testing team could perform the testing on the pod**_
+  *  _**Expose your pod so that testing team could perform the testing on the pod**_
