@@ -38,6 +38,11 @@
 
 *  _**JOB-1.** :- _Pull the GitHub repo automatically when some developers push repo to Github_
 
+![Screenshot (156)](https://user-images.githubusercontent.com/64469896/93023897-f561ef80-f60f-11ea-93a7-97171ea20125.png)
+
+![Screenshot (157)](https://user-images.githubusercontent.com/64469896/93023901-001c8480-f610-11ea-86a8-bcfa44533f8f.png)
+
+![Screenshot (158)](https://user-images.githubusercontent.com/64469896/93023914-0a3e8300-f610-11ea-9c8d-568703c90ab4.png)
 
 
 
