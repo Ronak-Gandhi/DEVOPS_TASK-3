@@ -36,7 +36,7 @@
 ![Screenshot (155)](https://user-images.githubusercontent.com/64469896/93023094-3ce57d00-f60a-11ea-890a-36117b99625a.png)
 
 
-*  _**JOB-1.** :- _Pull the GitHub repo automatically when some developers push repo to Github_
+*  _**JOB-1.**_ :- _Pull the GitHub repo automatically when some developers push repo to Github_
 
 ![Screenshot (156)](https://user-images.githubusercontent.com/64469896/93023897-f561ef80-f60f-11ea-93a7-97171ea20125.png)
 
@@ -44,5 +44,5 @@
 
 ![Screenshot (158)](https://user-images.githubusercontent.com/64469896/93023914-0a3e8300-f610-11ea-9c8d-568703c90ab4.png)
 
-
+![Screenshot (142)](https://user-images.githubusercontent.com/64469896/93024042-e3cd1780-f610-11ea-8b9d-c495521d8e27.png)
 
