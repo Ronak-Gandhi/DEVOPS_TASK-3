@@ -22,6 +22,7 @@
  
  `7.` **`Job-4`** : **if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer**..
 
+---
 
 ### _PREREQUISITE_:-
                    * RHel-8 * Docker * Gitbash * Github * Jenkins * Kubernetes
